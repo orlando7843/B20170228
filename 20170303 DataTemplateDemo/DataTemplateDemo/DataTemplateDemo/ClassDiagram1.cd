@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DataTemplateDemo.ContactList">
+    <Position X="5.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAACAABAABAAAAAAAAAgAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ContactList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DataTemplateDemo.ContactDetails">
+    <Position X="3" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAAAAAAAAAAAAQAgAAIAAAAAIAAAAQAAAE=</HashCode>
+      <FileName>ContactDetails.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="微軟正黑體" Size="9" />
+</ClassDiagram>

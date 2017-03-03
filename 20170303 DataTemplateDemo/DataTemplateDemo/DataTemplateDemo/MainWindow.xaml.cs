@@ -1,0 +1,35 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+namespace DataTemplateDemo
+{
+    public partial class MainWindow : Window
+    {
+        private ContactList _viewModel;
+        public MainWindow()
+        {
+            InitializeComponent();
+            _viewModel = new ContactList();//view 參考 viewModel
+            base.DataContext = _viewModel;
+        }
+
+        /*
+        private void Add_Click(object sender, RoutedEventArgs e)
+        {
+            //var contacts = DataContext as ContactList;
+            //contacts.AddEditableContact();
+            _viewModel.AddEditableContactExecute();
+        }*/
+    }
+}

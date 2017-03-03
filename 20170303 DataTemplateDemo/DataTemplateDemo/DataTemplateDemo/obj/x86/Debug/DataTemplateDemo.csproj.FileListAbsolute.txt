@@ -1,0 +1,13 @@
+C:\Users\orlando.lan\Downloads\DataTemplateDemo\DataTemplateDemo\DataTemplateDemo\bin\Debug\DataTemplateDemo.exe
+C:\Users\orlando.lan\Downloads\DataTemplateDemo\DataTemplateDemo\DataTemplateDemo\bin\Debug\DataTemplateDemo.pdb
+C:\Users\orlando.lan\Downloads\DataTemplateDemo\DataTemplateDemo\DataTemplateDemo\obj\x86\Debug\DataTemplateDemo.csprojResolveAssemblyReference.cache
+C:\Users\orlando.lan\Downloads\DataTemplateDemo\DataTemplateDemo\DataTemplateDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\orlando.lan\Downloads\DataTemplateDemo\DataTemplateDemo\DataTemplateDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\orlando.lan\Downloads\DataTemplateDemo\DataTemplateDemo\DataTemplateDemo\obj\x86\Debug\App.g.cs
+C:\Users\orlando.lan\Downloads\DataTemplateDemo\DataTemplateDemo\DataTemplateDemo\obj\x86\Debug\DataTemplateDemo_MarkupCompile.cache
+C:\Users\orlando.lan\Downloads\DataTemplateDemo\DataTemplateDemo\DataTemplateDemo\obj\x86\Debug\DataTemplateDemo.g.resources
+C:\Users\orlando.lan\Downloads\DataTemplateDemo\DataTemplateDemo\DataTemplateDemo\obj\x86\Debug\DataTemplateDemo.Properties.Resources.resources
+C:\Users\orlando.lan\Downloads\DataTemplateDemo\DataTemplateDemo\DataTemplateDemo\obj\x86\Debug\DataTemplateDemo.csproj.GenerateResource.Cache
+C:\Users\orlando.lan\Downloads\DataTemplateDemo\DataTemplateDemo\DataTemplateDemo\obj\x86\Debug\DataTemplateDemo.exe
+C:\Users\orlando.lan\Downloads\DataTemplateDemo\DataTemplateDemo\DataTemplateDemo\obj\x86\Debug\DataTemplateDemo.pdb
+C:\Users\orlando.lan\Downloads\DataTemplateDemo\DataTemplateDemo\DataTemplateDemo\bin\Debug\DevExpress.Mvvm.v16.2.dll
