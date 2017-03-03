@@ -1,0 +1,34 @@
+D:\Orlando\Project\WPF_Prac\ListBoxTemplate\ListBoxTemplate\bin\Debug\ListBoxTemplate.exe.config
+D:\Orlando\Project\WPF_Prac\ListBoxTemplate\ListBoxTemplate\bin\Debug\ListBoxTemplate.exe
+D:\Orlando\Project\WPF_Prac\ListBoxTemplate\ListBoxTemplate\bin\Debug\ListBoxTemplate.pdb
+D:\Orlando\Project\WPF_Prac\ListBoxTemplate\ListBoxTemplate\obj\Debug\ListBoxTemplate.csprojResolveAssemblyReference.cache
+D:\Orlando\Project\WPF_Prac\ListBoxTemplate\ListBoxTemplate\obj\Debug\App.g.cs
+D:\Orlando\Project\WPF_Prac\ListBoxTemplate\ListBoxTemplate\obj\Debug\ListBoxTemplate_MarkupCompile.cache
+D:\Orlando\Project\WPF_Prac\ListBoxTemplate\ListBoxTemplate\obj\Debug\ListBoxTemplate_MarkupCompile.lref
+D:\Orlando\Project\WPF_Prac\ListBoxTemplate\ListBoxTemplate\obj\Debug\ListBoxTemplate.g.resources
+D:\Orlando\Project\WPF_Prac\ListBoxTemplate\ListBoxTemplate\obj\Debug\ListBoxTemplate.Properties.Resources.resources
+D:\Orlando\Project\WPF_Prac\ListBoxTemplate\ListBoxTemplate\obj\Debug\ListBoxTemplate.csproj.GenerateResource.Cache
+D:\Orlando\Project\WPF_Prac\ListBoxTemplate\ListBoxTemplate\obj\Debug\ListBoxTemplate.exe
+D:\Orlando\Project\WPF_Prac\ListBoxTemplate\ListBoxTemplate\obj\Debug\ListBoxTemplate.pdb
+D:\Orlando\Project\WPF_Prac\ListBoxTemplate\ListBoxTemplate\obj\Debug\MonitorView.g.cs
+D:\Orlando\Project\WPF_Prac\ListBoxTemplate\ListBoxTemplate\obj\Debug\MonitorView.baml
+D:\Orlando\Project\WPF_Prac\ListBoxTemplate\ListBoxTemplate\obj\Debug\MainWindow.g.cs
+D:\Orlando\Project\WPF_Prac\ListBoxTemplate\ListBoxTemplate\obj\Debug\MainWindow.baml
+D:\Orlando\Project\WPF_Prac\ListBoxTemplate\ListBoxTemplate\bin\Debug\DevExpress.Mvvm.v16.2.dll
+D:\Orlando\Project\WPF_Prac\20170303 ListBoxTemplate\ListBoxTemplate\bin\Debug\ListBoxTemplate.exe.config
+D:\Orlando\Project\WPF_Prac\20170303 ListBoxTemplate\ListBoxTemplate\obj\Debug\ListBoxTemplate.exe
+D:\Orlando\Project\WPF_Prac\20170303 ListBoxTemplate\ListBoxTemplate\obj\Debug\ListBoxTemplate.pdb
+D:\Orlando\Project\WPF_Prac\20170303 ListBoxTemplate\ListBoxTemplate\bin\Debug\ListBoxTemplate.exe
+D:\Orlando\Project\WPF_Prac\20170303 ListBoxTemplate\ListBoxTemplate\bin\Debug\ListBoxTemplate.pdb
+D:\Orlando\Project\WPF_Prac\20170303 ListBoxTemplate\ListBoxTemplate\bin\Debug\DevExpress.Mvvm.v16.2.dll
+D:\Orlando\Project\WPF_Prac\20170303 ListBoxTemplate\ListBoxTemplate\obj\Debug\ListBoxTemplate.csprojResolveAssemblyReference.cache
+D:\Orlando\Project\WPF_Prac\20170303 ListBoxTemplate\ListBoxTemplate\obj\Debug\MainWindow.g.cs
+D:\Orlando\Project\WPF_Prac\20170303 ListBoxTemplate\ListBoxTemplate\obj\Debug\MonitorView.g.cs
+D:\Orlando\Project\WPF_Prac\20170303 ListBoxTemplate\ListBoxTemplate\obj\Debug\App.g.cs
+D:\Orlando\Project\WPF_Prac\20170303 ListBoxTemplate\ListBoxTemplate\obj\Debug\ListBoxTemplate_MarkupCompile.cache
+D:\Orlando\Project\WPF_Prac\20170303 ListBoxTemplate\ListBoxTemplate\obj\Debug\ListBoxTemplate_MarkupCompile.lref
+D:\Orlando\Project\WPF_Prac\20170303 ListBoxTemplate\ListBoxTemplate\obj\Debug\MainWindow.baml
+D:\Orlando\Project\WPF_Prac\20170303 ListBoxTemplate\ListBoxTemplate\obj\Debug\MonitorView.baml
+D:\Orlando\Project\WPF_Prac\20170303 ListBoxTemplate\ListBoxTemplate\obj\Debug\ListBoxTemplate.g.resources
+D:\Orlando\Project\WPF_Prac\20170303 ListBoxTemplate\ListBoxTemplate\obj\Debug\ListBoxTemplate.Properties.Resources.resources
+D:\Orlando\Project\WPF_Prac\20170303 ListBoxTemplate\ListBoxTemplate\obj\Debug\ListBoxTemplate.csproj.GenerateResource.Cache
