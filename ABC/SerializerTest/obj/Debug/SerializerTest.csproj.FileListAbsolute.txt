@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\SerializerTest\SerializerTest\bin\Debug\SerializerTest.exe.config
+c:\users\user\documents\visual studio 2015\Projects\SerializerTest\SerializerTest\bin\Debug\SerializerTest.exe
+c:\users\user\documents\visual studio 2015\Projects\SerializerTest\SerializerTest\bin\Debug\SerializerTest.pdb
+c:\users\user\documents\visual studio 2015\Projects\SerializerTest\SerializerTest\obj\Debug\SerializerTest.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\SerializerTest\SerializerTest\obj\Debug\SerializerTest.exe
+c:\users\user\documents\visual studio 2015\Projects\SerializerTest\SerializerTest\obj\Debug\SerializerTest.pdb
